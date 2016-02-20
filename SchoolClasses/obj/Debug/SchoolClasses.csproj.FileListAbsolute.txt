@@ -1,0 +1,6 @@
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\bin\Debug\SchoolClasses.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\bin\Debug\SchoolClasses.pdb
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\obj\Debug\SchoolClasses.exe
+C:\Users\stanislav\Documents\Visual Studio 2013\Projects\SchoolClasses\SchoolClasses\obj\Debug\SchoolClasses.pdb
